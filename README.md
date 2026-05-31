@@ -20,8 +20,12 @@ Read the full piece here: [your Substack link]
 
 Open any file to read it in your browser, or download it to drop into your own notes. If you spot something I got wrong, tell me. The whole point is that the work is checkable.
 
-## A note
+## Disclaimer
 
-This is research and education, not investment advice. Do your own work before acting on any of it.
+These files are research outputs generated with AI tools, mainly Claude Code, from public company filings, and shared exactly as produced, correction logs included. They are for educational and informational purposes only, and are not investment advice or a recommendation to buy, sell, or hold any security.
+
+Amazon, Microsoft, and Alphabet appear here only to demonstrate the workflow. They are examples, not recommendations or price targets. Any conclusions are my personal opinion at the time of the run and may change, and I may hold positions in the securities mentioned.
+
+AI-generated output can be wrong. Verify every figure against the primary source before relying on it. I am not a registered investment adviser or research analyst under SEBI, the SEC, the FCA, or any other authority, and nothing here creates an adviser-client relationship. Do your own research and consult a licensed professional. Not affiliated with or endorsed by Anthropic or any other tool named.
 
 Built by Shubham Borkar, Shikshan Nivesh, shikshannivesh.com
