@@ -6,7 +6,7 @@ These are the primary-source research files behind my Alpha with AI breakdown of
 
 Every number here was pulled from primary filings and earnings calls and rebuilt with Claude Code. No Bloomberg terminal, no data subscription. Where a first pass got something wrong, a second pass against the source caught it, and the corrections are logged inside the files.
 
-Read the full piece here: [your Substack link]
+Read the full piece here: (https://ai.shikshannivesh.com/p/is-big-techs-ai-capex-mispriced-i)
 
 ## What's in here
 
